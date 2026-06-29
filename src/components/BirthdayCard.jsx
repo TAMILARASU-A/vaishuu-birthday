@@ -475,7 +475,7 @@ export default function BirthdayCard() {
               animation: "scaleIn 0.35s ease-out"
             }}>
               <p style={{ margin: 0, fontSize: "1rem", fontWeight: 700, color: "#7a2977", lineHeight: 1.6 }}>
-                மிகவும் இனிய பிறந்த நாள் வாழ்த்துகள், வைஷு!
+                இனிய பிறந்த நாள் வாழ்த்துகள், வைஷு!✨
               </p>
             </div>
           </div>
